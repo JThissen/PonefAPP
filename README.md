@@ -1,5 +1,5 @@
 ##### August 10, 2019
-###### This repository features screenshots only.
+###### This repository contains screenshots only.
 
 # PonefAPP
  PonefAPP is a productivity/time-tracking web application I've built for Ponefa, an upholstery business based in Poland. The application uses a .NET Core back end, a React front end and a MySQL database.
